@@ -5,3 +5,10 @@ As described in [chapter-5](https://info201-s17.github.io/book/introduction-to-g
 In the space below, make a three column table of the current courses you are taking, with separate columns for course number (in **bold**), course title (in _italics_), and instructor.
 
 See `complete` branch for answers.
+
+| Course Number        | Course Title           | Instructor  |
+| ------------- |:-------------:| -----:|
+| **143**    |  _CSE_      |         ZORAH LEA FUNG      |
+| **201**    |  _Info_     |       Michael Freeman        |
+| **210**    |  _Psych_    |     NICOLE K MCNICHOLS          |
+| **309**    |  _Musen_    |        Timothy O Salzman       |
